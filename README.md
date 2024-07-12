@@ -2,6 +2,7 @@
 A basic game written in Java to develop skills / for fun.
 
 ---Premise--- 
+
 1 or 2 player game where the player(s) avoid a square which falls from the top to the bottom of the screen. 
 On collision with the square the player will lose a life. Players have 3 lives.
 Each time the square reaches the bottom of the screen, it respawns at the top with increased speed.
@@ -13,20 +14,25 @@ In this stage of the game the square can intermittently 'frail'. When frail, cli
 Try to get the highest score possible!
 
 ---1 player controls---
+
 Arrow keys to move.
 Spint Power = 'F_KEY' or 'PERIOD'
 Invincibility Power = 'C_KEY' or 'SLASH'
 
 ---2 player controls---
+
 Player 1: 
+
 Arrow keys to move. 
 Power to make Player 2 small and fast: 'SLASH'
 
 Player 2:
+
 WASD key to move.
 Power to make Player 1 invincible: 'C_KEY'
 
 ---info to launch---
+
 Uses Android Studio, Libgdx, and Gradle.
 
 DesktopLauncher Android Gradle Plugin Version: 4.0.1 Gradle Version: 6.1.1 Java SDK: 13
@@ -42,4 +48,7 @@ Preferences screen: https://github.com/user-attachments/assets/2d2f6195-e7ec-4dc
 Example 1 player game screen: https://github.com/user-attachments/assets/a4847836-aa42-4908-acee-697fbe8d47e5
 
 Example 2 player game screen: https://github.com/user-attachments/assets/bc7998f2-5ee8-4455-a0d1-c814c63abc0d
+
+Example 2 player game screen with 'Frail' enemy: https://github.com/user-attachments/assets/7adbadc1-c9b7-4134-ba6c-62311551ad0d
+
 
