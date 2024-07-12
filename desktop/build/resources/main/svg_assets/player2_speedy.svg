@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.681614mm"
+   height="22.681614mm"
+   viewBox="0 0 22.681614 22.681614"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="player2_speedy.svg"
+   inkscape:export-filename="/Users/dmr2/Documents/GameProject/tutorial/android/assets/raw_assests/player2_speedy.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:snap-global="false"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.7435141"
+     inkscape:cx="44.746592"
+     inkscape:cy="21.542501"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="779"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-87.558176,-76.218905)">
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#008000;stroke-width:0.23;stroke-miterlimit:3.25;stroke-opacity:0.30588201;paint-order:stroke fill markers;stroke-dasharray:none"
+       id="rect833"
+       width="22.41703"
+       height="22.41703"
+       x="87.690468"
+       y="76.351196"
+       ry="0" />
+    <ellipse
+       ry="3.0249414"
+       rx="1.8901762"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264584;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       id="path835"
+       cx="92.298485"
+       cy="83.519043" />
+    <ellipse
+       ry="1.018989"
+       rx="0.98042268"
+       cy="83.413589"
+       cx="92.341103"
+       id="ellipse841"
+       style="fill:#000000;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers" />
+    <ellipse
+       cy="83.519043"
+       cx="104.73157"
+       id="ellipse843"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264584;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       rx="1.8901762"
+       ry="3.0249414" />
+    <ellipse
+       style="fill:#000000;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       id="ellipse845"
+       cx="104.77419"
+       cy="83.413589"
+       rx="0.98042268"
+       ry="1.018989" />
+    <rect
+       y="77.882721"
+       x="88.07547"
+       height="1.631169"
+       width="21.638535"
+       id="rect843"
+       style="fill:#ffff00;fill-rule:evenodd;stroke:#ffff00;stroke-width:1;stroke-linecap:round;paint-order:stroke fill markers" />
+  </g>
+</svg>

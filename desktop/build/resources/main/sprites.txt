@@ -1,0 +1,96 @@
+sprites.png
+size: 1784, 1822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemy
+  rotate: false
+  xy: 0, 0
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+enemyfrail
+  rotate: false
+  xy: 446, 0
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+hourglass
+  rotate: false
+  xy: 892, 0
+  size: 484, 484
+  orig: 484, 484
+  offset: 0, 0
+  index: -1
+player1
+  rotate: false
+  xy: 0, 484
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player1_2P
+  rotate: false
+  xy: 446, 484
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player1_2P_protect
+  rotate: false
+  xy: 892, 484
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player1_protected
+  rotate: false
+  xy: 1338, 484
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player1_speedy
+  rotate: false
+  xy: 0, 930
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player1hurt
+  rotate: false
+  xy: 446, 930
+  size: 447, 446
+  orig: 447, 446
+  offset: 0, 0
+  index: -1
+player1hurt_2P
+  rotate: false
+  xy: 893, 930
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player2
+  rotate: false
+  xy: 0, 1376
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player2_speedy
+  rotate: false
+  xy: 446, 1376
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+player2hurt
+  rotate: false
+  xy: 892, 1376
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1

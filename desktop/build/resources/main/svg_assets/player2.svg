@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="500"
+   inkscape:export-xdpi="500"
+   inkscape:export-filename="/Users/dmr2/Documents/GameProject/tutorial/android/assets/raw_assests/player2.png"
+   sodipodi:docname="player2.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 22.681614 22.681614"
+   height="22.681614mm"
+   width="22.681614mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="779"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="45.920812"
+     inkscape:cx="14.889149"
+     inkscape:zoom="5.3356255"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-87.558176,-76.218905)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       ry="0"
+       y="76.351196"
+       x="87.690468"
+       height="22.41703"
+       width="22.41703"
+       id="rect833"
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#008000;stroke-width:0.23;stroke-miterlimit:3.25;stroke-opacity:0.30588201;paint-order:stroke fill markers;stroke-dasharray:none" />
+    <ellipse
+       cy="83.519043"
+       cx="92.298485"
+       id="path835"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264584;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       rx="1.8901762"
+       ry="3.0249414" />
+    <ellipse
+       style="fill:#000000;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       id="ellipse841"
+       cx="92.341103"
+       cy="83.413589"
+       rx="0.98042268"
+       ry="1.018989" />
+    <ellipse
+       ry="3.0249414"
+       rx="1.8901762"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264584;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       id="ellipse843"
+       cx="104.73157"
+       cy="83.519043" />
+    <ellipse
+       ry="1.018989"
+       rx="0.98042268"
+       cy="83.413589"
+       cx="104.77419"
+       id="ellipse845"
+       style="fill:#000000;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers" />
+  </g>
+</svg>

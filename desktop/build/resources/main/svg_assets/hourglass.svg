@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="hourglass.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 24.606609 24.606609"
+   height="24.606609mm"
+   width="24.606609mm"
+   inkscape:export-filename="/Users/dmr2/Documents/GameProject/tutorial/android/assets/raw_assests/hourglass.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient865"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop863" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="900"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="133.55139"
+     inkscape:cx="-24.397051"
+     inkscape:zoom="1.5832338"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-86.647882,-75.878511)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       id="path843"
+       cx="98.951187"
+       cy="88.181816"
+       r="11.303305" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 92.478951,81.049972 H 105.2176"
+       id="path853"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 95.115738,92.446717 c 0.0294,-0.0074 0.0611,-0.0085 0.08821,-0.02205 0.01859,-0.0093 0.02747,-0.03163 0.0441,-0.0441 0.01111,-0.04858 0.04537,-0.01166 0.06616,-0.02205 0.02905,-0.01452 0.05916,-0.05163 0.08821,-0.06616 0.03675,-0.0147 0.07351,-0.0294 0.110259,-0.0441 0.0147,0 0.03016,0.0046 0.0441,0 0.0619,-0.02063 0.106193,-0.09621 0.176414,-0.110258 0.03604,-0.0072 0.07539,0.01162 0.110258,0 0.114726,-0.03824 0.2494,-0.07889 0.374879,-0.110259 0.111264,-0.02782 0.202627,-0.111923 0.308724,-0.154362 0.08254,-0.03302 0.162576,-0.02411 0.242569,-0.0441 0.105967,-0.02649 0.21003,-0.07736 0.308724,-0.110259 0.02958,-0.0099 0.04121,-0.04744 0.06616,-0.06615 0.04634,-0.03475 0.106074,-0.05602 0.154362,-0.08821 0.09818,-0.06545 0.169993,-0.171598 0.264621,-0.242569 0.05031,-0.03773 0.143504,-0.07735 0.176413,-0.110258 0.01162,-0.01162 0.01043,-0.03248 0.02205,-0.0441 0.01936,-0.04742 0.07995,-0.03585 0.110258,-0.06616 0.04843,-0.04843 0.07113,-0.07967 0.13231,-0.110258 0.04766,-0.02383 0.08315,-0.09165 0.110259,-0.13231 0.02029,-0.03044 0.0405,-0.01845 0.06616,-0.0441 0.02831,-0.02831 0.04675,-0.0688 0.06615,-0.08821 0.0104,-0.0104 0.03371,0.0104 0.0441,0 0.01013,-0.01013 0.02673,-0.04878 0.0441,-0.06616 0.06878,-0.06878 0.220416,-0.176211 0.26462,-0.26462 0.0066,-0.01315 -0.0066,-0.03096 0,-0.0441 0.0059,-0.01178 0.07826,-0.122367 0.08821,-0.13231 0.01399,-0.01399 0.134949,-0.0049 0.154362,0 0.1358,0.03395 0.189472,0.202529 0.242569,0.308724 0.01764,0.03528 0.07057,0.05292 0.08821,0.08821 0.01655,0.0331 0.04721,0.08976 0.08821,0.110258 0.03785,0.01893 0.06912,0.03039 0.110258,0.0441 0.03355,0.01118 0.164551,0.120447 0.176414,0.13231 0.04563,0.04563 -0.06972,-0.0018 0.02205,0.0441 0.08285,0.04143 0.128083,0.07507 0.198465,0.110259 0.09026,0.04513 0.15695,0.163437 0.242574,0.220517 0.0774,0.05161 0.27392,0.07462 0.37488,0.13231 0.0716,0.04093 0.10897,0.109405 0.17641,0.154362 0.0822,0.05482 0.18002,0.06796 0.26462,0.110259 0.0186,0.0093 0.0255,0.03481 0.0441,0.0441 0.15109,0.07554 0.33344,0.100565 0.48514,0.176414 0.0783,0.03914 0.1535,0.100747 0.22052,0.154362 0.0384,0.03074 0.10298,0.137236 0.15436,0.154362 0.12422,0.04141 0.27219,0.02457 0.39693,0.06615 0.0826,0.02752 0.17269,0.05327 0.24257,0.08821 0.0133,0.0067 0.056,-0.0102 0.0661,0 0.005,0.0052 0,0.0147 0,0.02205"
+       id="path2819"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.55905;stroke-linecap:round;stroke-miterlimit:3.25;stroke-dasharray:none;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       d="m 24.637535,73.546098 c 0.770322,-0.859496 2.765021,-3.091059 4.432665,-4.95903 1.667644,-1.86797 3.087941,-3.39631 3.156216,-3.39631 0.06827,0 0.316228,-0.109809 0.551007,-0.24402 l 0.426871,-0.24402 12.460083,-0.113618 12.460084,-0.113618 0.577177,0.190948 c 0.317448,0.105021 0.671539,0.190948 0.786871,0.190948 0.196261,0 0.199856,-0.0072 0.05612,-0.112296 -0.08686,-0.06351 -0.117981,-0.134292 -0.07164,-0.16293 0.04506,-0.02785 1.545388,1.588529 3.33406,3.591951 1.788672,2.003422 3.915397,4.383315 4.726055,5.28865 l 1.473926,1.646065 H 46.121988 23.23695 Z"
+       id="path2823"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,86.647882,75.308611)" />
+    <path
+       style="fill:#ffff00;stroke:#ffff00;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98.748406,90.202213 c -0.0066,-0.0821 0.02688,-0.15971 0.04219,-0.236272 0.0038,-0.01915 0.0168,-0.05048 0.02531,-0.06751 0.0063,-0.01258 0.02087,-0.02041 0.02532,-0.03375 0.01777,-0.05332 0.02004,-0.113923 0.03375,-0.168766 0.0015,-0.0061 0.0077,-0.01064 0.0084,-0.01688 0.005,-0.04023 0,-0.09494 0,-0.135013 0,-0.07729 0.01253,-0.19484 0,-0.270026 -0.0303,-0.181791 -0.06095,-0.386206 -0.04219,-0.573804 0.0019,-0.0187 0.03133,-0.138611 0.04219,-0.160328 0.01072,-0.02144 0.01009,0.0086 0.01688,-0.02532 0.007,-0.03511 0.0071,-0.246793 -0.0084,-0.270026 -0.0035,-0.0052 -0.01243,-0.004 -0.01688,-0.0084 -0.01307,-0.01308 -0.02034,-0.02878 -0.03375,-0.04219"
+       id="path2835"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#ffff00;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 97.070846,86.153314 c 0.129466,0.07604 0.21602,0.118051 0.341408,0.180745 0.01796,0.009 0.04055,-0.0039 0.06025,0 0.104475,0.02089 0.02008,0.01339 0.100414,0.04017 0.03012,0.01004 0.07029,-0.01004 0.100414,0 0.009,0.003 0.0111,0.01709 0.02008,0.02008 0.08322,0.02774 0.196288,-0.0082 0.281159,0.02008 0.0284,0.0095 0.05193,0.0307 0.08033,0.04017 0.01905,0.0063 0.04229,-0.009 0.06025,0 0.01694,0.0085 0.0222,0.03418 0.04017,0.04017 0.08208,0.02736 0.17207,0.07816 0.261076,0.100413 0.187467,0.04687 0.845257,0.03972 1.004139,0 0.02904,-0.0073 0.05129,-0.0329 0.08033,-0.04017 0.151154,-0.03779 0.303391,-0.11153 0.441821,-0.180745 0.0643,-0.03215 0.158113,-0.0594 0.220903,-0.08033 0.0191,-0.0063 0.0423,0.009 0.0602,0 0.0563,-0.02816 0.104,-0.07208 0.16066,-0.100414 0.0389,-0.01947 0.0874,-0.02713 0.1205,-0.06025"
+       id="path2837"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.377953;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       d="m 43.695917,45.173788 c -1.331162,-1.489199 -2.442229,-2.738184 -2.469037,-2.775522 -0.04622,-0.06438 -0.03974,-0.06719 0.125496,-0.0545 0.09583,0.0074 0.222646,0.03341 0.281809,0.05788 0.06538,0.02705 0.269296,0.04381 0.519915,0.04274 0.359401,-0.0015 0.435515,0.009 0.592786,0.08222 0.09924,0.04619 0.228324,0.09579 0.28685,0.11022 0.05853,0.01443 0.13868,0.04677 0.178122,0.07185 0.1388,0.08828 0.970832,0.406892 1.201183,0.459969 0.514974,0.118657 1.986663,0.162759 3.087595,0.09253 0.668801,-0.04267 0.887302,-0.08038 1.125511,-0.194243 0.0986,-0.04713 0.332566,-0.136969 0.519915,-0.199632 0.187349,-0.06266 0.582664,-0.226973 0.878477,-0.365131 0.675134,-0.315317 1.077589,-0.466735 1.203653,-0.452858 0.09011,0.0099 -0.108094,0.241498 -2.464264,2.879284 -1.409238,1.577674 -2.58148,2.887472 -2.604984,2.910662 -0.03292,0.03248 -0.59855,-0.57964 -2.463027,-2.665471 z"
+       id="path2843"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.26458333,0,0,0.26458333,86.647882,75.308611)" />
+    <g
+       id="g2841">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 92.484203,95.312175 105.2176,81.059356"
+         id="path861"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path859"
+         d="M 92.484203,81.059356 105.2176,95.312175"
+         style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:export-ydpi="500"
+       inkscape:export-xdpi="500"
+       inkscape:export-filename="/Users/dmr2/Documents/GameProject/tutorial/android/assets/raw_assests/hourglass.png"
+       style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 92.478951,95.313665 H 105.2176"
+       id="path857"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
