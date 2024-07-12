@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="500"
+   inkscape:export-xdpi="500"
+   inkscape:export-filename="/Users/dmr2/Desktop/player.png"
+   sodipodi:docname="enemy.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 22.681614 22.681614"
+   height="22.681614mm"
+   width="22.681614mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="779"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="42.829163"
+     inkscape:cx="14.142115"
+     inkscape:zoom="2.6949659"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-87.558176,-76.218905)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       ry="0"
+       y="76.351196"
+       x="87.690468"
+       height="22.41703"
+       width="22.41703"
+       id="rect833"
+       style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers" />
+    <circle
+       r="3.0249414"
+       cy="83.519043"
+       cx="93.43325"
+       id="path835"
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264584;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers" />
+    <circle
+       style="fill:#ffff00;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       id="circle837"
+       cx="104.58589"
+       cy="82.942276"
+       r="2.448168" />
+    <ellipse
+       style="fill:#000000;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers"
+       id="ellipse841"
+       cx="92.661797"
+       cy="82.698196"
+       rx="0.80774099"
+       ry="1.3396835" />
+    <ellipse
+       transform="rotate(28.183008)"
+       ry="1.3396835"
+       rx="0.80774099"
+       cy="23.512037"
+       cx="131.21968"
+       id="ellipse4715"
+       style="fill:#000000;fill-rule:evenodd;stroke:#fde3ca;stroke-width:0.264583;stroke-miterlimit:3.25;stroke-opacity:0.305882;paint-order:stroke fill markers" />
+  </g>
+</svg>

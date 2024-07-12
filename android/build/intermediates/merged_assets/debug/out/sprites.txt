@@ -1,0 +1,33 @@
+sprites.png
+size: 934, 934
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+enemy
+  rotate: false
+  xy: 1, 487
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+enemyfrail
+  rotate: false
+  xy: 449, 487
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
+hourglass
+  rotate: false
+  xy: 1, 1
+  size: 484, 484
+  orig: 484, 484
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 487, 1
+  size: 446, 446
+  orig: 446, 446
+  offset: 0, 0
+  index: -1
