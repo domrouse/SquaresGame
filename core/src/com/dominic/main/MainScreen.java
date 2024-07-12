@@ -425,7 +425,7 @@ public class MainScreen implements Screen {
 
             // reset the score, lives, velocity, size, timerFrail and timeUntilFrail
             score = 0;
-            sm=0;
+            sm=1;
             lives1=lives1i;
             vE = vEi;
             RE = REi;
